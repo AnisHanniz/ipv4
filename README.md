@@ -1,6 +1,6 @@
 # Programme IPv4 et IPv6
 
-Ce programme en C permet de générer une adresse IPv4 aléatoire ou de saisir une adresse IPv4 manuellement, ainsi que de générer une adresse IPv6 aléatoire, puis calcule et affiche différentes informations telles que le masque de sous-réseau, l'adresse réseau, l'adresse hôte, la plage d'adresses IP adressable et l'adresse de diffusion.
+Ce programme en C permet le calcul et l'affichage de différentes informations telles que le masque de sous-réseau, l'adresse réseau, l'adresse hôte, la plage d'adresses IP adressable et l'adresse de diffusion à partir d'une adresse ip v4 ou v6 entrées manuellement ou générées aléatoirement.
 
 ## Compilation et exécution
 
